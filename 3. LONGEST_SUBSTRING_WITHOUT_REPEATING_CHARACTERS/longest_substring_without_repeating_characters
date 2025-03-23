@@ -1,0 +1,11 @@
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        print(s)
+
+string = 'abcabcbb'
+sol = Solution()
+sol.lengthOfLongestSubstring(string)
